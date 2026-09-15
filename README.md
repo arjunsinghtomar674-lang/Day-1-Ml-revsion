@@ -345,13 +345,13 @@ Deployment
 | Python                | ✅      |
 | NumPy                 | ✅      |
 | Pandas                | ✅      |
-| Matplotlib            | ⏳      |
-| Seaborn               | ⏳      |
-| EDA                   | 🚀     |
-| Data Cleaning         | ⏳      |
-| Feature Engineering   | ⏳      |
-| Feature Selection     | ⏳      |
-| Preprocessing         | ⏳      |
+| Matplotlib            | ✅      |
+| Seaborn               | ✅      |
+| EDA                   | ✅     |
+| Data Cleaning         | ✅      |
+| Feature Engineering   | ✅      |
+| Feature Selection     | ✅      |
+| Preprocessing         | ✅      |
 | Regression            | ⏳      |
 | Classification        | ⏳      |
 | Unsupervised Learning | ⏳      |
@@ -475,9 +475,9 @@ I aim to make **meaningful GitHub contributions** by uploading actual learning, 
 Python          ✅
 NumPy           ✅
 Pandas          ✅
-Visualization   🔄
-EDA             🚀
-Feature Eng.    ⏳
+Visualization   ✅
+EDA             ✅
+Feature Eng.    ✅
 Preprocessing   ⏳
 ML Algorithms   ⏳
 Evaluation      ⏳
