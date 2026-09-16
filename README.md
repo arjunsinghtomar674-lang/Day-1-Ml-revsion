@@ -478,7 +478,7 @@ Pandas          ✅
 Visualization   ✅
 EDA             ✅
 Feature Eng.    ✅
-Preprocessing   ⏳
+Preprocessing   ✅
 ML Algorithms   ⏳
 Evaluation      ⏳
 Tuning          ⏳
