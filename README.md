@@ -147,7 +147,7 @@ Deployment
 * Heatmap
 * Pairplot
 
-**Status:** ⏳ In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -168,7 +168,7 @@ Deployment
 * Finding Patterns
 * Finding Business Insights
 
-**Status:** 🚀 Next
+**Status:** ✅ Completed
 
 ---
 
@@ -182,6 +182,8 @@ Deployment
 * Invalid Data
 * Data Validation
 * Data Quality Checks
+
+**Status:** ✅ Completed
 
 ---
 
@@ -202,6 +204,8 @@ Deployment
 * Feature Selection
 * Removing Irrelevant Features
 * Multicollinearity
+
+**Status:** ✅ Completed
 
 ---
 
