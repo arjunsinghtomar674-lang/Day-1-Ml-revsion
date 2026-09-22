@@ -356,7 +356,7 @@ Deployment
 | Feature Engineering   | ✅      |
 | Feature Selection     | ✅      |
 | Preprocessing         | ✅      |
-| Regression            | ⏳      |
+| Regression            | ✅      |
 | Classification        | ⏳      |
 | Unsupervised Learning | ⏳      |
 | Model Evaluation      | ⏳      |
