@@ -224,6 +224,8 @@ Deployment
 * Gradient Boosting
 * XGBoost
 
+* **Status:** ✅ Completed
+
 ## 🎯 Classification
 
 * Logistic Regression
@@ -234,6 +236,8 @@ Deployment
 * Support Vector Machine
 * Gradient Boosting
 * XGBoost
+
+* **Status:** ✅ Completed
 
 ## 🔵 Unsupervised Learning
 
@@ -357,7 +361,7 @@ Deployment
 | Feature Selection     | ✅      |
 | Preprocessing         | ✅      |
 | Regression            | ✅      |
-| Classification        | ⏳      |
+| Classification        | ✅      |
 | Unsupervised Learning | ⏳      |
 | Model Evaluation      | ⏳      |
 | Cross Validation      | ⏳      |
